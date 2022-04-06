@@ -1,0 +1,113 @@
+GO:0008150,biological_process,43001
+GO:0065007,biological regulation,11347
+GO:0051179,localization,7789
+GO:0050896,response to stimulus,8290
+GO:0008152,metabolic process,33328
+GO:0009987,cellular process,33565
+GO:0050789,regulation of biological process,9603
+GO:0071840,cellular component organization or biogenesis,7093
+GO:0016043,cellular component organization,6377
+GO:0044238,primary metabolic process,27947
+GO:0044237,cellular metabolic process,28462
+GO:0006807,nitrogen compound metabolic process,25037
+GO:0019222,regulation of metabolic process,6019
+GO:0051234,establishment of localization,7448
+GO:0071704,organic substance metabolic process,29273
+GO:0006950,response to stress,4478
+GO:0051716,cellular response to stimulus,5193
+GO:0009058,biosynthetic process,11394
+GO:0050794,regulation of cellular process,8597
+GO:0051171,regulation of nitrogen compound metabolic process,5073
+GO:0034641,cellular nitrogen compound metabolic process,14209
+GO:0080090,regulation of primary metabolic process,5152
+GO:0060255,regulation of macromolecule metabolic process,5710
+GO:0006793,phosphorus metabolic process,8748
+GO:1901360,organic cyclic compound metabolic process,12904
+GO:0043170,macromolecule metabolic process,23419
+GO:0006139,nucleobase-containing compound metabolic process,11861
+GO:0046483,heterocycle metabolic process,12464
+GO:1901564,organonitrogen compound metabolic process,16185
+GO:0006996,organelle organization,4453
+GO:0044249,cellular biosynthetic process,10879
+GO:0044260,cellular macromolecule metabolic process,19278
+GO:0031323,regulation of cellular metabolic process,5319
+GO:0006725,cellular aromatic compound metabolic process,12669
+GO:0006810,transport,7349
+GO:0019538,protein metabolic process,13500
+GO:1901576,organic substance biosynthetic process,11078
+GO:0044267,cellular protein metabolic process,11940
+GO:0090304,nucleic acid metabolic process,10786
+GO:1901566,organonitrogen compound biosynthetic process,4386
+GO:0019438,aromatic compound biosynthetic process,5813
+GO:0018130,heterocycle biosynthetic process,5701
+GO:0043412,macromolecule modification,9761
+GO:1901362,organic cyclic compound biosynthetic process,6059
+GO:0009059,macromolecule biosynthetic process,7999
+GO:0034645,cellular macromolecule biosynthetic process,7870
+GO:0044271,cellular nitrogen compound biosynthetic process,7803
+GO:0036211,protein modification process,8850
+GO:0034654,nucleobase-containing compound biosynthetic process,5210
+GO:0010467,gene expression,8963
+GO:0006796,phosphate-containing compound metabolic process,8672
+GO:0010468,regulation of gene expression,4742
+GO:0016070,RNA metabolic process,7724
+GO:0016310,phosphorylation,6790
+GO:0006464,cellular protein modification process,8850
+GO:0006468,protein phosphorylation,4976
+GO:0005575,cellular_component,40381
+GO:0043226,organelle,21982
+GO:0032991,protein-containing complex,8633
+GO:0016020,membrane,22182
+GO:0044422,organelle part,10740
+GO:0005623,cell,30384
+GO:0044464,cell part,29961
+GO:0044425,membrane part,18248
+GO:0005622,intracellular,26229
+GO:0043229,intracellular organelle,21942
+GO:0071944,cell periphery,5570
+GO:0043227,membrane-bounded organelle,20174
+GO:0044424,intracellular part,26229
+GO:0043228,non-membrane-bounded organelle,4252
+GO:0044446,intracellular organelle part,10689
+GO:0031224,intrinsic component of membrane,17213
+GO:0005886,plasma membrane,4918
+GO:0012505,endomembrane system,4071
+GO:0016021,integral component of membrane,17098
+GO:0043232,intracellular non-membrane-bounded organelle,4252
+GO:0043231,intracellular membrane-bounded organelle,19767
+GO:0044444,cytoplasmic part,14425
+GO:0005737,cytoplasm,17853
+GO:0005634,nucleus,10143
+GO:0003674,molecular_function,46882
+GO:0005488,binding,32208
+GO:0003824,catalytic activity,29727
+GO:1901363,heterocyclic compound binding,23285
+GO:0005515,protein binding,5887
+GO:0036094,small molecule binding,13572
+GO:0097367,carbohydrate derivative binding,11837
+GO:0016787,hydrolase activity,11303
+GO:0016740,transferase activity,13499
+GO:0043167,ion binding,19940
+GO:0097159,organic cyclic compound binding,23315
+GO:0008144,drug binding,9783
+GO:0140096,catalytic activity,9668
+GO:0140096,acting on a protein,9668
+GO:0016772,transferase activity,7448
+GO:0016772,transferring phosphorus-containing groups,7448
+GO:0003676,nucleic acid binding,11103
+GO:0043168,anion binding,13012
+GO:0043169,cation binding,8799
+GO:1901265,nucleoside phosphate binding,13030
+GO:0032553,ribonucleotide binding,11742
+GO:0004672,protein kinase activity,4945
+GO:0005524,ATP binding,9404
+GO:0000166,nucleotide binding,13030
+GO:0017076,purine nucleotide binding,11654
+GO:0016773,phosphotransferase activity,5442
+GO:0016773,alcohol group as acceptor,5442
+GO:0046872,metal ion binding,8723
+GO:0035639,purine ribonucleoside triphosphate binding,10187
+GO:0032555,purine ribonucleotide binding,11631
+GO:0016301,kinase activity,6426
+GO:0032559,adenyl ribonucleotide binding,10849
+GO:0030554,adenyl nucleotide binding,10866
